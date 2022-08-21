@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'titlefont';
+    src: url('../fontes/game-font.ttf');
+}
+@font-face {
+    font-family: 'namefont';
+    src: url('../fontes/character-font.ttf');
+}

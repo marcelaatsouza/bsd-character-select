@@ -1,0 +1,18 @@
+:root {
+    --cor-vermelho-principal: #8B0000;
+    --cor-vermelho-medio: #9b3b3b;
+    --cor-vermelho-fraco: #dcb5b5;
+
+    --cor-roxo-principal: #663399;
+    --cor-roxo-medio: #BA55D3;
+    --cor-roxo-fraco: #DDA0DD;
+
+    --cor-titulo-borda: #000000;
+    --cor-titulo: #ffffff;
+
+    --cor-nome-personagem: #F8F8FF ;
+    --cor-nome-borda-personagem: #000000 ;
+
+    --cor-padrao: #ffffff;
+    --cor-secundaria: #000000;
+}
